@@ -1,4 +1,4 @@
-# Annotated-Munazarat 1.0
+# Annotated-Munazarat 2.0
 
 Welcome to the Annotated-Munazarat 1.0 corpus! This corpus contains 110 competitive Arabic debates annotated according to a modified Toulmin's annotation scheme.
 
