@@ -72,3 +72,35 @@ This corpus can be valuable for various Natural Language Processing (NLP) and Ar
 * **Rhetorical Strategy Analysis:** Studying the use of Ethos and Pathos in debates.
 * **Argument Generation Models:** Training models to generate argumentative text.
 * **Debate Analysis:** Understanding argument structures and strategies in competitive debates.
+
+## Citation
+
+If you find Munazarat useful in your work, please cite our papers (including Munazarat 1.0):
+
+```
+@inproceedings{khader2024munazarat,
+  title={Munazarat 1.0: A corpus of Arabic competitive debates},
+  author={Khader, Mohammad M and Al-Sharafi, AbdulGabbar and Al-Sioufy, Mohamad Hamza and Zaghouani, Wajdi and Al-Zawqari, Ali},
+  booktitle={Proceedings of the 6th Workshop on Open-Source Arabic Corpora and Processing Tools (OSACT) with Shared Tasks on Arabic LLMs Hallucination and Dialect to MSA Machine Translation@ LREC-COLING 2024},
+  pages={20--30},
+  year={2024}
+}
+
+@article{al2025neural,
+  title={Neural Classification of Argument Elements and Styles in Arabic Competitive Debates},
+  author={Al-Zawqari, Ali and Ahmed, Mohamed and Al-Sharafi, Abdul Gabbar and Khader, Mohammad M and Safa, Ali and Vandersteen, Gerd},
+  journal={IEEE Access},
+  year={2025},
+  publisher={IEEE}
+}
+
+@article{al2025arabic,
+  title={Arabic Argumentation: The Dynamics of A Rhetorical Change},
+  author={Al-Sharafi, Abdul Gabbar Mohamed and Khader, Mohammad Majed and Al-Sioufy, Mohamad Hamza and Ahmed, Mohamed and Al-Zawqari, Ali},
+  journal={Informal Logic},
+  volume={45},
+  number={2},
+  pages={194--228},
+  year={2025}
+}
+```
